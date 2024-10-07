@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #dca50d;
+}
+
+button {
+    background-color: #e39827;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #cfb41e;
+}
+
+#storyOutput {
+    margin-top: 20px;
+    font-size: 24px;
+    color: #e3c81e;
+}
